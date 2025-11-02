@@ -122,20 +122,24 @@ See `DEMO_GUIDE.md` for complete presentation instructions and demo script.
 
 ### 🖼️ **1️⃣ Dashboard Overview**
 Interactive analytics dashboard showing income, expenses, and savings trends.  
-![FinGenius Dashboard](<img width="2038" height="1131" alt="Screenshot 2025-11-02 105409" src="https://github.com/user-attachments/assets/90d722fd-162c-4815-8676-a97b6e990c7a" />
-)
+<img width="2038" height="1131" alt="Screenshot 2025-11-02 105409" src="https://github.com/user-attachments/assets/efdc5ab1-1428-4892-98d3-1c74e0ea2c1f" />
+
 
 ---
 
-### 💬 **2️⃣ AI Chat Interface**
-Conversational AI advisor providing personalized budgeting and savings suggestions.  
-![FinGenius Chat Interface](<img width="2040" height="1160" alt="Screenshot 2025-11-02 105425" src="https://github.com/user-attachments/assets/4fe194e8-1706-48d3-a248-53e2f6498bad" />
-)
+  
+<img width="2023" height="1113" alt="Screenshot 2025-11-02 105532" src="https://github.com/user-attachments/assets/e8af9358-2812-48e0-a337-581cba08c0c8" />
+
 
 ---
 
-### 📊 **3️⃣ Spending Breakdown Visualization**
-Category-wise spending chart and monthly expense trends.  
-![FinGenius Spending Analysis](<img width="2023" height="1113" alt="Screenshot 2025-11-02 105532" src="https://github.com/user-attachments/assets/8e6f12ea-0f47-4c0b-8695-472595dd9f93" />
-)
+ 
+<img width="2041" height="1113" alt="Screenshot 2025-11-02 105553" src="https://github.com/user-attachments/assets/b7ce49c4-e591-4eca-873b-d22d3700dcbd" />
+
+---
+<img width="2039" height="1119" alt="Screenshot 2025-11-02 105606" src="https://github.com/user-attachments/assets/5bb8d7c7-819f-4766-ad54-2bf53d91ebf2" />
+
+---
+<img width="2031" height="1098" alt="Screenshot 2025-11-02 105620" src="https://github.com/user-attachments/assets/9d5bf48d-ef96-4187-aa30-162677b80c08" />
+
 
