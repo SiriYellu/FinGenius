@@ -112,3 +112,27 @@ See `DEMO_GUIDE.md` for complete presentation instructions and demo script.
 - ✅ Interactive visualizations
 - ✅ Upload-first approach
 - ✅ Production-ready architecture
+
+
+## 🧩 **Project Demo**
+
+> 🎥 *See FinGenius in action — upload your data, explore insights, and chat with your AI financial advisor.*
+
+---
+
+### 🖼️ **1️⃣ Dashboard Overview**
+Interactive analytics dashboard showing income, expenses, and savings trends.  
+![FinGenius Dashboard](images/dashboard.pn)
+
+---
+
+### 💬 **2️⃣ AI Chat Interface**
+Conversational AI advisor providing personalized budgeting and savings suggestions.  
+![FinGenius Chat Interface](images/chat_interface.png)
+
+---
+
+### 📊 **3️⃣ Spending Breakdown Visualization**
+Category-wise spending chart and monthly expense trends.  
+![FinGenius Spending Analysis](images/spending_analysis.png)
+
