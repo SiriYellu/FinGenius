@@ -51,34 +51,19 @@ This project was originally designed for **hackathon demos** and **AI-driven Fin
 
 ## 🏗️ **System Architecture**
 
-┌────────────────────────────────────────────┐
-│ User Interface │
-│ (Streamlit Web Application) │
-└────────────────────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────┐
-│ Data Processing Layer │
-│ • CSV Validation & Cleaning (Pandas) │
-│ • Statistical Metrics & Trends │
-│ • Financial Health Scoring │
-└────────────────────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────┐
-│ AI Engine Layer │
-│ • GPT / Gemini API Calls │
-│ • RAG Context (ChromaDB) │
-│ • Prompt Templates & Financial Logic │
-└────────────────────────────────────────────┘
-│
-▼
-┌────────────────────────────────────────────┐
-│ Visualization Layer │
-│ • Plotly Graphs & KPI Cards │
-│ • Category & Time-based Insights │
-│ • Interactive Financial Reports │
-└────────────────────────────────────────────┘
+- **User Interface (Streamlit Web App)**
+  - Upload CSV, visualize analytics, chat with AI
+- **Data Processing Layer**
+  - CSV validation and cleaning (Pandas)
+  - Statistical metrics, trends, and scoring
+- **AI Engine Layer**
+  - GPT / Gemini API calls
+  - RAG context memory (ChromaDB)
+  - Prompt templates + financial logic
+- **Visualization Layer**
+  - Plotly charts · KPIs · category/time insights
+  - Interactive dashboards and financial reports
+
 
 
 ## 🚀 **Quick Start**
